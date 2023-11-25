@@ -1,1 +1,1 @@
-ENV_TYPE = "test"
+ENV_TYPE = "prod"
