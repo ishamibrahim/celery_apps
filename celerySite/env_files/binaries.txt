@@ -1,1 +1,1 @@
-Binary file for PROD env.
+Binary file for DEV 3 env.
