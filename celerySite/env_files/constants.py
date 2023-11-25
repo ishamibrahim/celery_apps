@@ -1,1 +1,1 @@
-ENV_TYPE = "dev 3"
+ENV_TYPE = "test 4"
